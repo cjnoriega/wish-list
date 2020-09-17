@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="chris_new_string_field" label="Chris New String Field" language="en" table="x_334524_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>chris_new_string_field</element>
+            <help/>
+            <hint/>
+            <label>Chris New String Field</label>
+            <language>en</language>
+            <name>x_334524_wish_list_wish_item</name>
+            <plural>Chris New String Fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-17 23:36:51</sys_created_on>
+            <sys_id>bd73e735db1710103bfef7af29961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Chris New String Field</sys_name>
+            <sys_package display_value="Wish List" source="x_334524_wish_list">76e27589db0310103bfef7af299619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">76e27589db0310103bfef7af299619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_334524_wish_list_wish_item_chris_new_string_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-17 23:36:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
